@@ -1,16 +1,26 @@
-## Hi there 👋
+# <Emil />
 
-<!--
-**EmilRepo/EmilRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer.**
+Kodowanie traktuję podobnie jak mechanikę – wszystko musi do siebie idealnie pasować, działać płynnie i być niezawodne.
 
-Here are some ideas to get you started:
+W moich projektach nie ma miejsca na "jakoś to będzie". Strona musi wyglądać dobrze na każdym urządzeniu (RWD), być czytelna dla każdego (WCAG) i ładować się błyskawicznie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Workflow
+Buduję lekkie i wydajne interfejsy.
+
+* **Core:** HTML5 (Semantyczny), CSS3 (BEM), JavaScript (ES6+).
+* **Narzędzia:** Gulp (automatyzacja i optymalizacja), Git, VS Code.
+* **Jakość:** Web Performance (dbałość o wagę zasobów i szybkość ładowania).
+* **Rozwój:** Aktualnie szlifuję **React** i **TypeScript** oraz integruję rozwiązania **AI/Chatboty** na stronach www.
+
+### 🔌 Offline
+Kiedy nie koduję, zazwyczaj naprawiam lub udoskonalam coś w świecie rzeczywistym.
+
+* **Garage:** Motoryzacja i mechanika. Lubię wiedzieć, co siedzi "pod maską" – czy to w silniku, czy w przeglądarce.
+* **Gaming:** CS, LoL, Rust, ARC Raiders. Cenię gry wymagające refleksu i taktycznego myślenia.
+
+---
+
+### 📬 Kontakt
+Zobacz moje portfolio: **[emiladamczyk.pl](https://emiladamczyk.pl)**
+Napisz do mnie: `kontakt@emiladamczyk.pl`
