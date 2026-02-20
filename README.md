@@ -1,7 +1,7 @@
 # <Emil />
 
 **Frontend Developer.**
-Kodowanie traktuję podobnie jak mechanikę – wszystko musi do siebie idealnie pasować, działać płynnie i być niezawodne.
+Kodowanie traktuję podobnie jak mechanikę - wszystko musi do siebie idealnie pasować, działać płynnie i być niezawodne.
 
 W moich projektach nie ma miejsca na "jakoś to będzie". Strona musi wyglądać dobrze na każdym urządzeniu (RWD), być czytelna dla każdego (WCAG) i ładować się błyskawicznie.
 
